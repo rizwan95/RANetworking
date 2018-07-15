@@ -1,0 +1,6 @@
+framework module Pods_RANetworking_Example {
+  umbrella header "Pods-RANetworking_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

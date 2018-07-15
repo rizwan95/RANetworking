@@ -1,0 +1,16 @@
+PODS:
+  - RANetworking (0.1.0)
+
+DEPENDENCIES:
+  - RANetworking (from `../`)
+
+EXTERNAL SOURCES:
+  RANetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RANetworking: f42acf25a7ee0007a0a6ad306c152afa8aa8a219
+
+PODFILE CHECKSUM: ecb33f6345b4ef4d7ceecfdfe6670fbf9229bcfc
+
+COCOAPODS: 1.5.2

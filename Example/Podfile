@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RANetworking_Example' do
+  pod 'RANetworking', :path => '../'
+
+  target 'RANetworking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module RANetworking {
+  umbrella header "RANetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
